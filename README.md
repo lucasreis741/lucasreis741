@@ -1,4 +1,5 @@
-Olá sou Lucas Reis 
+Oláa!  
+Sou Lucas Reis 
 
 <div align="center">
   <a href="https://github.com/lucasreis741">
