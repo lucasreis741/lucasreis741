@@ -1,5 +1,7 @@
-Oláa!  
+Oláa!!!  
 Sou Lucas Reis 
+
+Tenho Conhecimento em HTML 5, CSS 3 , JAVA SCRIPT , SQL Server
 
 <div align="center">
   <a href="https://github.com/lucasreis741">
