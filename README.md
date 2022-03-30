@@ -13,7 +13,7 @@ Tenho Conhecimento em HTML 5, CSS 3 , JAVA SCRIPT , SQL Server
    <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Lucas-SQL" height="35" width="45" src= "https://files.softicons.com/download/system-icons/lozengue-filetype-icons-by-gurato/ico/SQL.ico">
+   <img align="center" alt="Lucas-SQL" height="40" width="45" src= "https://files.softicons.com/download/system-icons/lozengue-filetype-icons-by-gurato/ico/SQL.ico">
 
 </div>
   
