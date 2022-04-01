@@ -1,6 +1,7 @@
 Oláa!!!  
 Sou Lucas Reis 
 
+Estou cursando Análise e Desenvolvimento de Sistemas 
 Tenho Conhecimento em HTML 5, CSS 3 , JAVA SCRIPT , SQL Server
 
 <div align="center">
