@@ -11,7 +11,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas
   <a href="https://github.com/lucasreis741">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasreis741&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasreis741&layout=compact&langs_count=7&theme=dark"/>
-     <img  align="left"  width="400"    src="https://blog.elgscreen.com/wp-content/uploads/2018/12/ciclo-de-vida-da-bateria-do-notebook-gif.gif"  />
+     <img  align="left"  width="150"    src="https://blog.elgscreen.com/wp-content/uploads/2018/12/ciclo-de-vida-da-bateria-do-notebook-gif.gif"  />
 </div>
 <div style="display: inline_block"><br>
   
