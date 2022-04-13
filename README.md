@@ -26,7 +26,7 @@ Sou Lucas Reis, Estudante de Desenvolvimento Front-End , Cursando Análise e Des
   <a href="https://www.linkedin.com/in/lucas-de-souza-reis-0377501ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
   </div>
   <img  align="left"  width="100"    src="https://c.tenor.com/674tCmRlt9wAAAAC/loading-carregando.gif"  />
-
+    <hr>
 
   
   </div>
