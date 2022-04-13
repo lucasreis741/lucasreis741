@@ -11,7 +11,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas
   <a href="https://github.com/lucasreis741">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasreis741&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasreis741&layout=compact&langs_count=7&theme=dark"/>
-     <img  align="center"  width="150"    src="https://blog.elgscreen.com/wp-content/uploads/2018/12/ciclo-de-vida-da-bateria-do-notebook-gif.gif"  />
+     <img  align="left"  width="400"    src="https://blog.elgscreen.com/wp-content/uploads/2018/12/ciclo-de-vida-da-bateria-do-notebook-gif.gif"  />
 </div>
 <div style="display: inline_block"><br>
   
@@ -19,7 +19,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas
    <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Lucas-SQL" height="40" width="45" src= "https://files.softicons.com/download/system-icons/lozengue-filetype-icons-by-gurato/ico/SQL.ico">
-  <img  align="right"  width="300"    src="https://i.pinimg.com/originals/56/78/b7/5678b7d94f06fb580386d6883d082e97.gif"  />
+  <img  align="right"  width="400"    src="https://i.pinimg.com/originals/56/78/b7/5678b7d94f06fb580386d6883d082e97.gif"  />
   </div>
    
   
