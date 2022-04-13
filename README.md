@@ -1,6 +1,6 @@
 
 <div
-"font-family: 'Times New Roman', Times, serif;"
+"font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;"
 
 Oláa!!!  
 Sou Lucas Reis 
