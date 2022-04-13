@@ -1,7 +1,7 @@
 
-<h1> Oláa!!!  
+<h2> Oláa!!!  
 Sou Lucas Reis 
-Estou cursando Análise e Desenvolvimento de Sistemas </h1>
+Estou cursando Análise e Desenvolvimento de Sistemas </h2>
        <hr>
 
 
