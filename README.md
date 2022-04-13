@@ -28,6 +28,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas
   <div style="display: inline_block"><br>
   "<img  align="center"  width="400" src="https://i.pinimg.com/originals/56/78/b7/5678b7d94f06fb580386d6883d082e97.gif"  />
   </div>
+ 
   ![Snake animation](https://github.com/lucasreis741/lucasreis741/blob/output/github-contribution-grid-snake.svg)
 
   
