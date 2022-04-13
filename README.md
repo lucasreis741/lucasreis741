@@ -1,13 +1,10 @@
 
-<div
-"font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;"
-
 Oláa!!!  
 Sou Lucas Reis 
 
 Estou cursando Análise e Desenvolvimento de Sistemas 
 ,tenho conhecimento em HTML 5, CSS 3 , JAVA SCRIPT , SQL Server
-</div>
+
 
 
 <div align="center">
