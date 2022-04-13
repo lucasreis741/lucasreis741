@@ -20,6 +20,8 @@ Estou cursando Análise e Desenvolvimento de Sistemas
    <img align="center" alt="Lucas-SQL" height="40" width="45" src= "https://files.softicons.com/download/system-icons/lozengue-filetype-icons-by-gurato/ico/SQL.ico">
   <img  align="right"  width="300"    src="https://i.pinimg.com/originals/56/78/b7/5678b7d94f06fb580386d6883d082e97.gif"  />
 </div>
+    ![Snake animation](https://github.com/lucasreis741/lucasreis741/blob/output/github-contribution-grid-snake.svg)
+
   
  
  
@@ -29,7 +31,5 @@ Estou cursando Análise e Desenvolvimento de Sistemas
   
   </div>
  
-  ![Snake animation](https://github.com/lucasreis741/lucasreis741/blob/output/github-contribution-grid-snake.svg)
-
   
   </div>
