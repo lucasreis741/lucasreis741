@@ -1,9 +1,6 @@
 Oláa!!!  
 Sou Lucas Reis 
 
-"<img src="https://i.pinimg.com/originals/56/78/b7/5678b7d94f06fb580386d6883d082e97.gif" />
-
-
 Estou cursando Análise e Desenvolvimento de Sistemas 
 ,tenho conhecimento em HTML 5, CSS 3 , JAVA SCRIPT , SQL Server
 
@@ -29,6 +26,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas
   <a href = "https://mail.google.com/mail/u/0/#inbox/FMfcgzGmvTvDrqdbNlzkTVNlKqZtDflc"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-de-souza-reis-0377501ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+  "<img src="https://i.pinimg.com/originals/56/78/b7/5678b7d94f06fb580386d6883d082e97.gif" />
   
   ![Snake animation](https://github.com/lucasreis741/lucasreis741/blob/output/github-contribution-grid-snake.svg)
 
