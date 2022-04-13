@@ -1,7 +1,6 @@
 
 <h3> Oláa!!!    <br> 
-Sou Lucas Reis  <br> 
-Estudante de Desenvolvimento Front-End , Cursando Análise e Desenvolvimento de Sistemas . </h3> 
+Sou Lucas Reis, Estudante de Desenvolvimento Front-End , Cursando Análise e Desenvolvimento de Sistemas . </h3> 
        <hr>
 
 
