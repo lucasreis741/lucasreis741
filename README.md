@@ -27,7 +27,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas
   <a href = "https://mail.google.com/mail/u/0/#inbox/FMfcgzGmvTvDrqdbNlzkTVNlKqZtDflc"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-de-souza-reis-0377501ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
   </div>
-  <img  align="left"  width="150"    src="https://i.pinimg.com/originals/b9/0c/a2/b90ca2be5015aa3acd42612845dbc70e.gif"  />
+  <img  align="left"  width="400"    src="https://i.pinimg.com/originals/b9/0c/a2/b90ca2be5015aa3acd42612845dbc70e.gif"  />
 
 
   
