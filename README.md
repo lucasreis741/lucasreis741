@@ -1,8 +1,8 @@
 Oláa!!!  
 Sou Lucas Reis 
 
-<img src="<img src="https://i.pinimg.com/originals/56/78/b7/5678b7d94f06fb580386d6883d082e97.gif" />
-" />
+"<img src="https://i.pinimg.com/originals/56/78/b7/5678b7d94f06fb580386d6883d082e97.gif" />
+
 
 Estou cursando Análise e Desenvolvimento de Sistemas 
 ,tenho conhecimento em HTML 5, CSS 3 , JAVA SCRIPT , SQL Server
