@@ -1,7 +1,7 @@
 Oláa!!!  
 Sou Lucas Reis 
 
-<img src="<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif" />
+<img src="<img src="https://i.pinimg.com/originals/56/78/b7/5678b7d94f06fb580386d6883d082e97.gif" />
 " />
 
 Estou cursando Análise e Desenvolvimento de Sistemas 
