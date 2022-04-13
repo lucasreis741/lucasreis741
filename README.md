@@ -28,8 +28,7 @@ Sou Lucas Reis, Estudante de Desenvolvimento Front-End , Cursando Análise e Des
   <img  align="left"  width="100"    src="https://c.tenor.com/674tCmRlt9wAAAAC/loading-carregando.gif"  />
   
 
-  
+ 
   </div>
-    <hr>
 
 ![Snake animation](https://github.com/lucasreis741/lucasreis741/blob/output/github-contribution-grid-snake.svg)
