@@ -18,7 +18,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas
    <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Lucas-SQL" height="40" width="45" src= "https://files.softicons.com/download/system-icons/lozengue-filetype-icons-by-gurato/ico/SQL.ico">
-  <img  align="right"  width="400"    src="https://i.pinimg.com/originals/56/78/b7/5678b7d94f06fb580386d6883d082e97.gif"  />
+  <img  align="right"  width="400"    src="![image](https://user-images.githubusercontent.com/101409815/163245328-5ffeb279-960c-4e1c-9eda-36af31d144ea.png)"  />
   </div>
    
   
@@ -27,7 +27,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas
   <a href = "https://mail.google.com/mail/u/0/#inbox/FMfcgzGmvTvDrqdbNlzkTVNlKqZtDflc"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-de-souza-reis-0377501ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
   </div>
-  <img  align="left"  width="150"    src="https://c.tenor.com/674tCmRlt9wAAAAC/loading-carregando.gif"  />
+  <img  align="left"  width="150"    src="![image](https://user-images.githubusercontent.com/101409815/163245005-543b9f55-5fef-48c8-b11a-de5176221ff5.png)"  />
 
 
   
