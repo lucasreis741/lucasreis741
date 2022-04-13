@@ -1,7 +1,7 @@
 
-<h2> Oláa!!!  
+<h3> Oláa!!!  <br>
 Sou Lucas Reis  <br> 
-Estudante de Analise e Desenvolvimento de sistemas e Linguagem de Programaçao </h2>
+Estudante de Analise e Desenvolvimento de sistemas e Linguagem de Programaçao </h3>
        <hr>
 
 
