@@ -16,12 +16,13 @@ Sou Lucas Reis, Estudante de Desenvolvimento Front-End , Cursando Análise e Des
    <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Lucas-SQL" height="40" width="45" src= "https://files.softicons.com/download/system-icons/lozengue-filetype-icons-by-gurato/ico/SQL.ico">
-  <img    width="400"    src="https://i.pinimg.com/originals/56/78/b7/5678b7d94f06fb580386d6883d082e97.gif"  />
+
   </div>
    
   
  
 <div>
+   <img    width="400"    src="https://i.pinimg.com/originals/56/78/b7/5678b7d94f06fb580386d6883d082e97.gif"  />
   <a href = "https://mail.google.com/mail/u/0/#inbox/FMfcgzGmvTvDrqdbNlzkTVNlKqZtDflc"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-de-souza-reis-0377501ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
   </div>
