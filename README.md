@@ -25,7 +25,7 @@ Sou Lucas Reis, Estudante de Desenvolvimento Front-End , Cursando Análise e Des
   <a href = "https://mail.google.com/mail/u/0/#inbox/FMfcgzGmvTvDrqdbNlzkTVNlKqZtDflc"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-de-souza-reis-0377501ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
   </div>
-  <img  align="left"  width="150"    src="https://images.squarespace-cdn.com/content/v1/5ccb050e809d8e130ff3433f/1591368755714-Y3XQ32MCTOHXJIVPA1AH/raio.gif"  />
+  <img  align="left"  width="300"    src="https://images.squarespace-cdn.com/content/v1/5ccb050e809d8e130ff3433f/1591368755714-Y3XQ32MCTOHXJIVPA1AH/raio.gif"  />
   
 
  
