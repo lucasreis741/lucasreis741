@@ -2,9 +2,9 @@
 <h3> Oláa!!!    <br> 
 Sou Lucas Reis, Estudante de Desenvolvimento Front-End , Cursando Análise e Desenvolvimento de Sistemas . </h3> 
       
-      <div> 
-      <img width="100%" height="30px" src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif"/>
-  </div>
+     
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif" />
+
    
 
 
