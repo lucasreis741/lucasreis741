@@ -3,19 +3,17 @@
 Sou Lucas Reis, Estudante de Desenvolvimento Front-End , Cursando Análise e Desenvolvimento de Sistemas . </h3> 
       
      
-  <img width="100%" height="30px" src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif"/>
+<hr>
 
-   
-
-
+  
 <div align="center">
   <a href="https://github.com/lucasreis741">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasreis741&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasreis741&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  
-        <img width="100%" height="30px" src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif"/>
+
+     <hr>
       
       
    <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
